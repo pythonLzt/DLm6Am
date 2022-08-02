@@ -1,5 +1,5 @@
 # DLm6Am
-DLm6Am is a deep-learning-based framework to predict m6Am-containing sequences and visualize saliency map for sequences.
+DLm6Am is a deep-learning-based framework to predict m6Am-containing sequences.
 
 # Dependency
 Python==3.7.1
