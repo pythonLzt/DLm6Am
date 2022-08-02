@@ -9,7 +9,9 @@ torch==1.6.0+cu101
 # Usage
 predict m6Am-containing sequences
 The script test.py is used to predict if a given sequence contain m6Am sites. The required arguments
+
 1.test_fasta: a fasta file for test samples ( the length of sequences should be 41bp)
+
 2.out_dir: the path of output directory
 
 This script ouput the trained model and prediction result in the out_dir.
