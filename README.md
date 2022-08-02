@@ -8,6 +8,8 @@ numpy==1.21.5
 
 torch==1.6.0+cu101
 
+pandas==1.1.0
+
 # Usage
 predict m6Am-containing sequences
 The script test.py is used to predict if a given sequence contain m6Am sites. The required arguments
