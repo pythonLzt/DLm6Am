@@ -13,4 +13,5 @@ The script test.py is used to predict if a given sequence contain m6Am sites. Th
 2.out_dir: the path of output directory
 
 This script ouput the trained model and prediction result in the out_dir.
+
 python test.py -test_fasta test.fasta -out_dir out
