@@ -1,6 +1,6 @@
 Dependency:
 
-Python3.7
+python==3.7.12
 
 numpy==1.21.5
 
