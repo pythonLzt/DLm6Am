@@ -1,6 +1,14 @@
+Dependency:
 
+Python3.7
 
+numpy==1.21.5
 
+torch==1.6.0+cu101, torchvision==0.7.0+cu101
+
+pandas==1.1.0
+
+Usage:
 
 python test.py -test_fasta test.fasta -out_dir out
 
