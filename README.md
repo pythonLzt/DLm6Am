@@ -15,8 +15,8 @@ python test.py -test_fasta test.fasta -out_dir out
 
 Notes: 
 
-1. The script test.py is used to predict m6Am sites from a given file with fasta format containing RNA sequences (41 bp) in which sequence center is A. 
+1. The script test.py is used to predict m6Am sites from a given file with fasta format containing RNA sequences, in which potential modification sites within those sequences can be identified using sliding-window. 
 
-2. test_fasta: a input file containing query RNA sequences.
+2. test_fasta: an input file containing query RNA sequences with fasta format.
 
-3. out: the name of output directory
+3. out: the name of output directory.
